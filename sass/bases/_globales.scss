@@ -8,17 +8,17 @@ html{
 }
 
 body{
-    font-family: $fuentePrincipal;
-    background-color: #1f1e1e;
+    font-family: $alata;
+    margin: 0;
 }
 
 p{
-    font-size: 1.5rem;  /* 1rem = 10px */ 
+    font-size: 1.8rem;  /* 1rem = 10px */ 
 }
 
 h1,h2,h3,p{
     margin: 0;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
 }
 
 .contenedor{
