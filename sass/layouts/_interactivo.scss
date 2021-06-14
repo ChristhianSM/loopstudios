@@ -1,0 +1,27 @@
+.contenedor-main {
+    margin: 10rem 0;
+    position: relative;
+    img {
+      width: 60%;
+    }
+    .informacion {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      background: $white;
+      width: 50%;
+      padding: 9rem 0rem 0 8rem;
+      h2 {
+        text-transform: uppercase;
+        font-family: $josefin;
+        font-size: 5rem;
+        font-weight: 100;
+        margin-bottom: 2.5rem;
+      }
+      p {
+        font-weight: 300;
+        line-height: 1.5;
+        color: $veryDarkGray;
+      }
+    }
+  }
